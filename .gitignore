@@ -1,0 +1,2 @@
+node_modules
+"knex": "node --import tsx ./node_modules/.bin/knex"
