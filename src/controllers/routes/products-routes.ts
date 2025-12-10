@@ -9,5 +9,5 @@ productsRoutes.post("/", ProductsController.create)
 productsRoutes.put("/", ProductsController.update)
 productsRoutes.delete("/", ProductsController.remove)
 
-
+c
 export { productsRoutes }
